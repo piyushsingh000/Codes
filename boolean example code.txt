@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main (){
+    bool amIBadboy = true;
+    bool amIGoodboy = false;
+    cout<<amIBadboy <<"\n" ;
+    cout<<amIGoodboy;
+    return 0;
+    
+}
